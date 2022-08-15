@@ -1,0 +1,15 @@
+E:\Dotnet\tasks3\Hw#3\task2\bin\Debug\net6.0\task2.exe
+E:\Dotnet\tasks3\Hw#3\task2\bin\Debug\net6.0\task2.deps.json
+E:\Dotnet\tasks3\Hw#3\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+E:\Dotnet\tasks3\Hw#3\task2\bin\Debug\net6.0\task2.dll
+E:\Dotnet\tasks3\Hw#3\task2\bin\Debug\net6.0\task2.pdb
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.dll
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\refint\task2.dll
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.pdb
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+E:\Dotnet\tasks3\Hw#3\task2\obj\Debug\net6.0\ref\task2.dll
